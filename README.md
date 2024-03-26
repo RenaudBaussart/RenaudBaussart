@@ -1,6 +1,6 @@
 ### 👋 Hi,i'am a learning ~~dev~~ bug maker  
-
-<img src='https://img.shields.io/badge/Mail-Renaud.Baussart%40proton.me-purple'>
+<p> 
+    <img src='https://img.shields.io/badge/Mail-Renaud.Baussart%40proton.me-purple'>
     <a href='https://www.linkedin.com/in/renaud-baussart-278b362bb/'>
         <img src='https://img.shields.io/badge/linkedin-blue'>
     </a>
@@ -10,17 +10,6 @@
     <a href='https://github.com/RenaudBaussart/Memo-CheatSheet'>
         <img src='https://img.shields.io/badge/My%20cheat%20sheet-lightyellow'>
         </a>
-<!--
-**RenaudBaussart/RenaudBaussart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
