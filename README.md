@@ -14,6 +14,6 @@
 
 :clock9:I'am 22 years old  
 :baggage_claim:i'am currently on a Developer/integrator course with the project to do a CDA(designer and developer in application)  
-:crystal_ball:if you have any advice or question feel free to contact me on my [mail](Renaud.Baussart@proton.me)
+:crystal_ball:if you have any advice or question feel free to contact me on my mail:arrow_heading_up:
 
 
