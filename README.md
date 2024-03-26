@@ -12,6 +12,8 @@
         </a>
 </p>
 
-:clock9:I'am 22 years old
+:clock9:I'am 22 years old  
+:baggage_claim:i'am currently on a Developer/integrator course with the project to do a CDA(designer and developer in application)  
+
 
 
