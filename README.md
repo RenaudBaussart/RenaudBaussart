@@ -1,4 +1,5 @@
 ### 👋 Hi,i'am a front ~~dev~~ bug maker  
+<p>
 <a>
     <img src='https://img.shields.io/badge/Mail-Renaud.Baussart%40proton.me-purple'>
 </a>
@@ -11,7 +12,7 @@
 <a href='https://github.com/RenaudBaussart/Memo-CheatSheet'>
     <img src='https://img.shields.io/badge/My%20cheat%20sheet-lightyellow'>
 </a>
-
+</p>
 :clock9:I'am 22 years old  
 :baggage_claim:i'am currently on a Developer/integrator course with the project to do a CDA(designer and developer in application)  
 :crystal_ball:if you have any advice or question feel free to contact me on my mail:arrow_heading_up:  
