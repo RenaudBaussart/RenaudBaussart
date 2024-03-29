@@ -9,8 +9,9 @@
 :baggage_claim:i'am currently on a Developer/integrator course with the project to do a CDA(designer and developer in application)  
 :crystal_ball:if you have any advice or question feel free to contact me on my mail:arrow_heading_up:  
 non exhaustive list of language / techno i know:  
-<img src='https://img.shields.io/badge/c%2B%2B-blue'>
-<img src='https://img.shields.io/badge/c%23-purple'>
-<img src='https://img.shields.io/badge/HTML-CSS-blue'>
-
+<p>
+    <img src='https://img.shields.io/badge/c%2B%2B-blue'>
+    <img src='https://img.shields.io/badge/c%23-purple'>
+    <img src='https://img.shields.io/badge/HTML-CSS-blue'>
+</p>
 
