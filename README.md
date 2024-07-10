@@ -22,4 +22,4 @@ non exhaustive list of language / techno i know:
 </p>
 
 [![RenaudBaussart GitHub stats](https://github-readme-stats.vercel.app/api?username=RenaudBaussart)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenaudBaussart)](https://github.com/anuraghazra/github-readme-stats)
+
